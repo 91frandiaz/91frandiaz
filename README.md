@@ -1,4 +1,5 @@
-![S](https://github.com/91frandiaz/91frandiaz/assets/43790576/d7dac821-81a4-4308-995d-9e2404eb1d40)
+![S](https://github.com/91frandiaz/91frandiaz/assets/43790576/8f35a3ab-39f1-4013-9795-d277d7e6a452)
+
 
 ### About me 👋
 
