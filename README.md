@@ -3,7 +3,8 @@
 </p>
 
 
-### About me 👋
+### About me 👋![S](https://github.com/91frandiaz/91frandiaz/assets/43790576/0798a08c-6e60-4b4f-8224-c5817a0015d0)
+
 
 **Francisco Diaz** es un analista de datos graduado en economia de la Universidad Centroamericana José Simeón Cañas. Me gusta hacer estadistica en Python 😎
  
