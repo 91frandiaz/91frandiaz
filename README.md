@@ -1,4 +1,4 @@
-## Bienvenido a mi perfil de Github 📊
+## Bienvenido a mi perfil de Github 📊 📈
 ¡Bienvenido a mi portafolio! Aquí encontrarás una colección de mis proyectos en estadística y análisis de datos utilizando Python, así como proyectos de SQL y visualizaciones de datos creadas con herramientas de business intelligence como Power BI y Google Data Studio. Echa un vistazo y explora las ideas que he descubierto. 
 
 <p align="center">
