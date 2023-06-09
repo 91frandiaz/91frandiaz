@@ -2,9 +2,8 @@
   <img src="https://github.com/91frandiaz/91frandiaz/assets/43790576/5dd83efe-80ef-458f-93a9-98c51e508848" alt="image description">
 </p>
 
-
 ### About me 👋
-![s](https://github.com/91frandiaz/91frandiaz/assets/)
+
 
 **Francisco Diaz** es un analista de datos graduado en economia de la Universidad Centroamericana José Simeón Cañas. Me gusta hacer estadistica en Python 😎
  
